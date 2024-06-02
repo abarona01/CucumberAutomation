@@ -116,9 +116,9 @@ When(/^user deselect a session$/, async () => {
     // await SecondBtn.click();
 });
 
-// When(/^user proceeds to the Marketing page$/, () => {
-// 	return true;
-// });
+When(/^user proceeds to the Marketing page$/, () => {
+	return true;
+});
 
 // When(/^user proceeds to the Event Sponsor data use page$/, () => {
 // 	return true;
